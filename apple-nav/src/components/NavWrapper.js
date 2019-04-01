@@ -12,6 +12,8 @@ const MainWrapper = props => {
             </NavLink>
           </>
         ))}
+        <i className="fas fa-search" />
+        <i className="fas fa-shopping-bag" />
       </ul>
     </nav>
   );
