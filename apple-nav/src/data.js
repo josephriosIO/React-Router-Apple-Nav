@@ -1,9 +1,5 @@
 export default [
   {
-    id: "/",
-    name: ""
-  },
-  {
     id: 1,
     name: "Mac",
     sub: [
@@ -86,9 +82,5 @@ export default [
       "Music Accessories",
       "Gift Cards"
     ]
-  },
-  {
-    id: "/",
-    name: "Support"
   }
 ];
