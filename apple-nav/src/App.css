@@ -3,15 +3,31 @@
   justify-content: space-around;
   align-items: center;
   height: 60px;
-  background: black;
+  background: #323232;
+  color: white;
+}
+
+ul {
   color: white;
 }
 
 .Main-nav a {
   padding: 0 25px;
+  color: white;
+  text-decoration: none;
 }
 
 .active {
-  color: white;
-  text-decoration: none;
+  color: #6c6c6c !important;
+}
+
+.sub {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub .icons {
+  padding: 0 25px;
 }
